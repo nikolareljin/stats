@@ -5,7 +5,7 @@
         fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
         >Clone traffic — dir-sync</text>
   <text x="800" y="18" font-size="10" fill="#8c959f"
-        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-06-12</text>
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-06-13</text>
 
   <!-- grid -->
   <line x1="52" y1="232.0" x2="800" y2="232.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="185.3" x2="800" y2="185.3" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="138.6" x2="800" y2="138.6" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="91.8" x2="800" y2="91.8" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="45.1" x2="800" y2="45.1" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="-1.6" x2="800" y2="-1.6" stroke="#e8e8e8" stroke-width="1"/>
