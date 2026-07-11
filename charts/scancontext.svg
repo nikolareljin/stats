@@ -5,7 +5,7 @@
         fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
         >Clone traffic — scancontext</text>
   <text x="800" y="18" font-size="10" fill="#8c959f"
-        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-10</text>
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-11</text>
 
   <!-- grid -->
   <line x1="52" y1="232.0" x2="800" y2="232.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="197.7" x2="800" y2="197.7" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="163.4" x2="800" y2="163.4" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="129.1" x2="800" y2="129.1" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="94.9" x2="800" y2="94.9" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="60.6" x2="800" y2="60.6" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="26.3" x2="800" y2="26.3" stroke="#e8e8e8" stroke-width="1"/>
