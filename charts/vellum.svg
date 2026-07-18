@@ -5,7 +5,7 @@
         fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
         >Clone traffic — vellum</text>
   <text x="800" y="18" font-size="10" fill="#8c959f"
-        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-17</text>
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-18</text>
 
   <!-- grid -->
   <line x1="52" y1="232.0" x2="800" y2="232.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="193.9" x2="800" y2="193.9" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="155.7" x2="800" y2="155.7" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="117.6" x2="800" y2="117.6" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="79.5" x2="800" y2="79.5" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="41.3" x2="800" y2="41.3" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="3.2" x2="800" y2="3.2" stroke="#e8e8e8" stroke-width="1"/>
