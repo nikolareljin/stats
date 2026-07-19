@@ -2,7 +2,7 @@
 
   <!-- title -->
   <text x="52" y="18" font-size="13" font-weight="600" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Issue velocity — distrodeck</text>
-  <text x="800" y="18" font-size="10" fill="#8c959f" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-18</text>
+  <text x="800" y="18" font-size="10" fill="#8c959f" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-19</text>
 
   <!-- grid -->
   <line x1="52" y1="232.0" x2="800" y2="232.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="28.0" x2="800" y2="28.0" stroke="#e8e8e8" stroke-width="1"/>
@@ -24,7 +24,7 @@
   <text x="426.0" y="248" text-anchor="middle" font-size="10" fill="#8c959f" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace">W10</text>
 
   <!-- annotation -->
-  <text x="800" y="248" text-anchor="end" font-size="10" fill="#f28e2b" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace">⚠ Low confidence (&lt;4 weeks data)  ·  11 open</text>
+  <text x="800" y="248" text-anchor="end" font-size="10" fill="#f28e2b" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace">⚠ Low confidence (&lt;4 weeks data)  ·  12 open</text>
 
   <!-- legend -->
   <rect x="60" y="262" width="16" height="8" fill="#4e79a7" opacity="0.75" rx="1"/><text x="82" y="268" font-size="11" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Issues closed/week</text><line x1="238" y1="264" x2="254" y2="264" stroke="#f28e2b" stroke-width="1.5" stroke-dasharray="5,3"/><text x="258" y="268" font-size="11" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Median velocity</text>
