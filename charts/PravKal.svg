@@ -5,7 +5,7 @@
         fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
         >Clone traffic — PravKal</text>
   <text x="800" y="18" font-size="10" fill="#8c959f"
-        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-20</text>
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-21</text>
 
   <!-- grid -->
   <line x1="52" y1="232.0" x2="800" y2="232.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="189.2" x2="800" y2="189.2" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="146.4" x2="800" y2="146.4" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="103.6" x2="800" y2="103.6" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="60.8" x2="800" y2="60.8" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="18.0" x2="800" y2="18.0" stroke="#e8e8e8" stroke-width="1"/>
