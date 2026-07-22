@@ -5,7 +5,7 @@
         fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
         >Clone traffic — vigilant-core</text>
   <text x="800" y="18" font-size="10" fill="#8c959f"
-        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-21</text>
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" text-anchor="end">2026-07-22</text>
 
   <!-- grid -->
   <line x1="52" y1="232.0" x2="800" y2="232.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="197.0" x2="800" y2="197.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="162.0" x2="800" y2="162.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="127.0" x2="800" y2="127.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="92.0" x2="800" y2="92.0" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="56.9" x2="800" y2="56.9" stroke="#e8e8e8" stroke-width="1"/><line x1="52" y1="21.9" x2="800" y2="21.9" stroke="#e8e8e8" stroke-width="1"/>
